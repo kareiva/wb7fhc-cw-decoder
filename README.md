@@ -27,9 +27,9 @@
    the sooner it locks into solid copy.
    
    After a reset, the following text is very difficult to lock in on:
-   'SHE IS HIS SISTER' because there are only two dahs in the whole
+   `SHE IS HIS SISTER` because there are only two dahs in the whole
    phrase and they come near the end. However, if you reset and then
-   send 'CALL ME WOODY' it will match your speed quite quickly.
+   send `CALL ME WOODY` it will match your speed quite quickly.
    
    This project is built around the 20x4 LCD display. The sketch includes
    funtions for word wrap and scrolling. If a word extends beyond the 20
