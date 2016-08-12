@@ -47,15 +47,25 @@
    few bucks more) you might want to leave out the word wrap and scrolling.
    
    Hook up your LCD panel to the Arduino using these pins:
+
      LCD pin  1 to GND
+
      LCD pin  2 to +5V
+
      LCD pin  4 to D7
+
      LCD pin  6 to D6
+
      LCD pin 11 to D5
+
      LCD pin 12 to D4
+
      LCD pin 13 to D3
+
      LCD pin 14 to D2
+
      LCD pin 15 to +5V
+
      LCD pin 16 to GND
      
   Data from pin 8 of the LM567C will be fed to D8 on the Arduino
